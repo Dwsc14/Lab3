@@ -14,6 +14,7 @@ public class Menu {
         centralList.add(Controller.createCentralUser());
 
         System.out.println(centralList.get(0).toString());
+        System.out.println("Ahahah");
 
     }
 
